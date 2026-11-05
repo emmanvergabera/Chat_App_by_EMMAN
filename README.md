@@ -12,7 +12,7 @@ up instantly in every open browser window.
   already in use are refused.
 - Active Users list: shows everyone currently online and updates when
   someone joins or leaves.
-- Each message is labelled with its sender, like "Emman: hi".
+- Each message is labelled with its sender, like "EMMAN: hi".
 
 ## Prerequisites
 1. Node.js 18 or newer (a current LTS version is best). This also installs
